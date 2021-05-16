@@ -1,7 +1,7 @@
 """
 @author: Jhon Baron
 """
-import numpy as np
+
 from flask import Flask, request, jsonify
 import joblib
 
