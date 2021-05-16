@@ -17,3 +17,6 @@ pytest-cov==2.4.0
 
 #ML picker model framework
 joblib==1.0.1
+
+#Server side dependecies
+gunicorn==20.1.0
