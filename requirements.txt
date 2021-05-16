@@ -14,3 +14,6 @@ Flask-User==1.0.1.5
 # Automated tests
 pytest==3.0.5
 pytest-cov==2.4.0
+
+#ML picker model framework
+joblib==1.0.1
